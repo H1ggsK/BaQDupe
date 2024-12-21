@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "baqdupe",
+  "version": "${version}",
+  "name": "BaQDupe",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/baqdupe/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.h1ggsk.baqdupe.client.BaqdupeClient"
+    ],
+    "main": [
+      "com.h1ggsk.baqdupe.Baqdupe"
+    ]
+  },
+  "mixins": [
+    "baqdupe.mixins.json",
+    {
+      "config": "baqdupe.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
