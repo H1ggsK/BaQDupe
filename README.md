@@ -4,7 +4,7 @@ This is a dupe for vanilla, Fabric, and Forge servers (AFAIK all versions with B
 # How to use
 Start by running `/dupehelp`, and then following the instructions run `/dupe`. If it fails, it may be patched. DM me `@h1ggsk` on Discord if you have a problem, and I will get back to you as soon as possible. You can also join our duping support Discord server at [discord.gg/ttDpeJQSvK](https://discord.gg/ttDpeJQSvK).
 
-To connect to otger server versions than 1.21/1.21.1, use [ViaFabricPlus](https://www.curseforge.com/minecraft/mc-mods/viafabricplus).
+To connect to other server versions than 1.21/1.21.1, use [ViaFabricPlus](https://www.curseforge.com/minecraft/mc-mods/viafabricplus).
 
 If you used PaperDupe, please delete the `.jar` file and replace it with the BaQDupe `.jar`.
 
