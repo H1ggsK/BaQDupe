@@ -1,5 +1,5 @@
 # BaQDupe (Book and Quill Dupe)
-This is a dupe for vanilla, Fabric, and Forge servers (AFAIK all versions with Book and Quill), and Paper servers running 1.20.5 through 1.21 (not 1.21.1).  It does not work on Purpur or any other server plugin softwares.
+This is a dupe for vanilla, Fabric, and Forge servers (1.20.5-1.21.1), and Paper servers running 1.20.5 through 1.21 (not 1.21.1).  It does not work on Purpur or any other server plugin softwares.
 
 # How to use
 Start by running `/dupehelp`, and then following the instructions run `/dupe`. If it fails, it may be patched. DM me `@h1ggsk` on Discord if you have a problem, and I will get back to you as soon as possible. You can also join our duping support Discord server at [discord.gg/ttDpeJQSvK](https://discord.gg/ttDpeJQSvK).
