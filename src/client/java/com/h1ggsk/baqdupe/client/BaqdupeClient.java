@@ -73,7 +73,7 @@ public class BaqdupeClient implements ClientModInitializer {
 
         mc.player.sendMessage(Text.of("/dupe command"));
         mc.player.sendMessage(Text.of("Unknown original author, ported by Theo (@h1ggsk) from Benefit by Lefty (@leftydupes)"));
-        mc.player.sendMessage(Text.of("Works on all vanilla, Fabric, and Forge servers, and Paper servers running 1.20.5 to 1.21.1#35 (patched in #36). It does not work on Purpur or any other server plugin softwares."));
+        mc.player.sendMessage(Text.of("Works on vanilla, Fabric, and Forge servers (1.20.5-1.21.1), and Paper servers running 1.20.5 through 1.21 (not 1.21.1). It does not work on Purpur or any other server plugin softwares."));
         mc.player.sendMessage(Text.of("Before you dupe make sure to log out and back in to save player data. Then hold a writable book and type \"/dupe\". You will be kicked from the server, rejoin and pick up your duped items."));
         return 0;
     }
